@@ -1,0 +1,258 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.background-color-of-banner {
+    background-color: #191a1d;
+    padding: 8px;
+}
+
+.bg-navbar-color {
+    background-color: #9aa5b1;
+}
+
+.navbar-title-background {
+    background-color: #191a1d;
+    border-radius: 9px;
+
+}
+
+.navbar-title-style {
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.coder-image-1 {
+    height: 40vh;
+    width: 40vh;
+    padding: 10px;
+
+
+}
+
+.anchor-element-color {
+    color: blue;
+    font-size: 36px;
+}
+
+.main-heading-name {
+    color: white;
+    font-size: 34px;
+}
+
+.paragraph-about-tech {
+    color: #9aa5b1;
+    font-size: 34px;
+}
+
+.btn-button-in-navbar-section {
+    color: white;
+    background-color: #4b6cc1;
+    padding: 4px;
+    height: 45px;
+    width: 120px;
+    border-radius: 8px;
+    font-size: 16px;
+}
+
+.banner-container {
+    background-color: #191a1d;
+}
+
+.background-color-facts {
+    background-color: #323f4b;
+
+    padding: 10px;
+}
+
+.main-heading {
+    color: #cced00;
+    font-size: 20px;
+}
+
+.main-heading-about {
+    color: white;
+    font-size: 28px;
+}
+
+.profile-image-aboutsection {
+
+    width: 100%;
+}
+
+.paragraph-description {
+    color: #9aa5b1;
+    font-size: 18px;
+    font-family: Roboto;
+}
+
+.background-color-2 {
+    background-color: #1f2933;
+}
+
+.background-color-for-box-elements {
+    background-color: #323f4b;
+    padding: 15px;
+    border-radius: 8px;
+    text-align: center;
+    height: 120px;
+    width: 120px;
+}
+
+.box-image {
+    height: 50px;
+    width: 50px;
+}
+
+.main-heading-for-box {
+    color: white;
+    font-size: 24px;
+}
+
+.background-members-section {
+    background-color: #1f2933;
+
+}
+
+.main-heading-1-testimonal {
+    color: #cced00;
+    font-size: 20px;
+}
+
+.main-heading-2-testimonal {
+    color: white;
+    font-size: 28px;
+}
+
+.bakground-corousel-part {
+    background-color: #323f4b;
+}
+
+.persons-image-style {
+    height: 30vh;
+    width: 20vh;
+    border-radius: 110px;
+}
+
+.paraghaph-in-carouselsection {
+    color: #9aa5b1;
+    font-size: 18px;
+    font-family: Roboto;
+}
+
+.main-heading-in-carouselsection {
+    color: white;
+    font-size: 22px;
+    font-family: italic;
+}
+
+.backrgound-color {
+    background-color: #001c32;
+    padding: 10px;
+}
+
+.profile-image {
+    height: 60px;
+    width: 60px;
+    border-radius: 40px;
+}
+
+.main-heading-footersection {
+    color: #cced00;
+    font-size: 24px;
+}
+
+.paragraph-footersection {
+    color: #5a7184;
+}
+
+.icon-color {
+    color: #5a7184;
+}
+
+.footer-background-color-last {
+    color: #001c32;
+}
+
+.background-color-project-section {
+    background-color: #3e4c59;
+}
+
+.main-heading-portfolio {
+    color: #cced00;
+    font-size: 20px;
+    font-family: Roboto;
+    font-weight: bold;
+    padding: 5px;
+}
+
+.main-heading-project {
+    color: white;
+    font-size: 26px;
+    font-family: Roboto;
+    font-weight: bold;
+    padding: 5px;
+}
+
+.project-image {
+    width: 100%;
+}
+
+.background-box-project-items {
+    background-color: #323f4b;
+    padding: 8px;
+}
+
+.paragraph-web-design {
+    font-size: 18px;
+    color: #9aa5b1;
+}
+
+.main-heading-project-page {
+    color: white;
+    font-size: 24px;
+}
+
+.paragraph-project-description {
+    color: #9aa5b1;
+    font-size: 22px;
+}
+
+.Read-more-link {
+    color: #d0b200;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.background-color-page {
+    background-color: #52606d;
+    padding: 10px;
+}
+
+.main-headind-services {
+    color: #cced00;
+    font-size: 20px;
+    margin-top: 5px;
+}
+
+.main-heading-whatido {
+    color: white;
+    font-size: 28px;
+
+}
+
+.services-container {
+    background-color: #323f4b;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+.services-image1 {
+    height: 50px;
+    width: 50px;
+}
+
+.paragraph-info-in-services {
+    color: #9aa5b1;
+    font-size: 24px;
+}
